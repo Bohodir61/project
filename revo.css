@@ -1,0 +1,297 @@
+body{
+    background-color: rgb(212, 209, 209);
+}
+ul li{
+    list-style: none;
+    padding: 19px;
+    color: #fff;
+}
+ul li:hover{
+    color:rgba(77, 140,199, 1) ;
+    transition-duration: 2s;
+    font-size: 19px;
+   
+}
+.karzinka img{
+    padding: 58px;
+}
+
+.karzinka-and-menues{
+    background-color: rgba(65, 81,103, 1);
+    width: 300px;
+    height: 780px;
+}
+
+header{
+    display: flex;
+}
+.personalized p{
+    font-size: 54px;
+    font-weight: bold;
+    width: 400px;
+
+}
+.span1{
+    background-color: rgba(199, 161, 122, 1);
+    color: #ffff;
+    padding: 5px;
+}
+
+.picture-specialized{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.texts{
+text-align: center;
+color: rgba(65, 81, 103, 1);
+padding: 0px;
+    
+}
+.personalize{
+    font-size: 20px;
+    font-weight: 200;
+    
+    
+}
+.coffee{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.st-photo-text{
+    width: 200px;
+    
+}
+
+.Nguồn{
+    font-weight: 900;
+    font-size: 22px;
+    text-align: center;
+
+}
+
+.Những2{
+    line-height: 23px;
+    text-align: center;
+}
+
+.first-photo{
+    margin-left: 58px;
+}
+
+.text2{
+    width: 216px;
+    margin-left: 58px;
+}
+
+.Từng{
+    line-height: 23px;
+    text-align: center;
+}
+
+.Chất{
+    font-weight: 700;
+    font-size: 22px;
+    text-align: center;
+}
+.zanjirr{
+    margin-left: 129px;
+}
+
+.all{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Các{
+    font-weight: 900;
+    font-size: 24px;
+    text-align: center;
+}
+
+.text3{
+    width: 200px;
+}
+
+.refunds{
+    line-height: 23px;
+    text-align: center;
+}
+
+.logo3{
+    margin-left: 50px;
+}
+
+.text4{
+    font-size: 16px;
+    line-height: 24px;
+    width: 220px;
+    text-align: center;
+}
+
+.Pha{
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+.picturee img{
+    margin-left: 70px;   
+}
+
+.orqakokrasm{
+    background-color:rgba(65, 81, 103, 1);
+    width: 384px;
+    height: 1309px;
+
+}
+
+.bold{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgba(65, 81, 103, 1);
+}
+.chooseurfavorite{
+color:rgba(65, 81, 103, 1) ;
+font-size: 20px;
+}
+
+.orqakokrangvatext{
+left: 48px;
+    display: flex;
+    margin: auto;
+}
+
+.revokofesariq{
+    padding: 12px;
+
+}
+
+.toqsantuqqizmi{
+    width: 113px;
+}
+
+.skidka{
+    font-weight: 550;
+    font-size: 21px;
+}
+
+.strange{
+    font-size: 19px;
+}
+.mua{
+    color: white;
+    background-color: rgba(220, 152, 26, 0.647);
+    border-radius: 15px;
+width: 155px;
+text-align: center;
+padding: 3px;
+}
+
+.chi{
+    font-weight: 200;
+}
+
+.divide{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.flexing{
+    display: flex;
+    background-color: white;
+    width: 670px;
+    
+}
+
+.toqsantuqqizmi{
+    font-size: 27px;
+    color: rgba(199, 161, 122, 1);
+}
+
+.backcolor{
+    background-color:rgb(172, 172, 172);
+}
+
+.chegirma{
+    padding: 28px;
+}
+
+.doinpadding{
+    padding: 14px;
+}
+
+
+.price{
+    color: rgba(199, 161, 122, 1);
+    font-size: 23px;
+    
+
+
+}
+
+.revo{
+    font-weight: 500;
+    font-size: 24px;
+    
+}
+
+.mua2{
+    color: white;
+    background-color: rgba(220, 152, 26, 0.647);
+    border-radius: 15px;
+width: 155px;
+text-align: center  ;
+padding: 3px;
+}
+
+.revo2{
+    background-color:rgb(255, 255, 255);
+    width: 340px;
+    padding: 30px;
+}
+
+.bluerevo{
+    background-color:rgb(172, 172, 172);
+    width: 270px;
+    padding: 32px;
+
+}
+
+.flexing2{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.connecting{
+    display: flex;
+    align-items: center;
+}
+
+.qizilrevokofe img{
+background-color: rgba(173, 171, 171, 0.499);
+padding: 32px;
+
+
+}
+
+.all2{
+    display: flex;
+    gap: 29px;
+    margin-top: -600px;
+}
+.all4{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px;
+}
+
+.bigall{
+    margin-top: -900px;
+}
